@@ -1,4 +1,4 @@
-## [![Dazelpro Header](https://dazelpro.com/assets/images/git-header.png)](https://dazelpro.com)
+## [![Dazelpro Header](https://dazelpro.com/assets/images/git-header.jpg)](https://dazelpro.com)
 
 <p align='center'>
     <a href="https://www.youtube.com/channel/UCYwbx1db_MYMheTMQKZxV0A">
