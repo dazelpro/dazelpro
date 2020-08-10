@@ -1,4 +1,4 @@
-## [![Dazelpro Header](https://dazelpro.com/assets/images/git-header.webp)](https://dazelpro.com)
+## [![Dazelpro Header](https://dazelpro.com/assets/images/git-header.png)](https://dazelpro.com)
 
 <p align='center'>
     <a href="https://www.youtube.com/channel/UCYwbx1db_MYMheTMQKZxV0A">
@@ -25,20 +25,24 @@
     I am a Web Development. For the PHP programming language I am proficient at using Codeigniter. As for the Javascript section on the Frontend, I usually use Angular Framework and NodeJS Express as Backend. I can also use several databases such as Oracle, SQL-Server, MySQL, and MongoDB.
 </p>
 
+
 ---
- 
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+
+
+<p>
+  <img width="200" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
 
 ### 📘 Node.js Fundamentals
 
 Node.js is a platform for running Javascript code at runtime. Node.js allows applications to run outside the browser. That's all because the rendering is done on the server side. [Read more](https://dazelpro.com/article/tutorial-dasar-node-js)
 
+
 ---
 
+
 <p>
-    <a href="https://waylonwalker.com/latest"><img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true"></a>
+    <a href="https://waylonwalker.com/latest"><img width="200" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true"></a>
 </p>
 
 ### 📘 Angular Framework Fundamentals
