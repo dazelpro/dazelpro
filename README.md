@@ -31,7 +31,7 @@
 
 
 <p>
-  <a href="https://dazelpro.com/article/tutorial-dasar-node-js"><img width="200" align='right' src="https://dazelpro.com/assets/images/nodejs.webp?raw=true"></a>
+  <a href="https://dazelpro.com/article/tutorial-dasar-node-js"><img width="200" align='left' src="https://dazelpro.com/assets/images/nodejs.webp?raw=true"></a>
 </p>
 
 ### 📘 Node.js Fundamentals
