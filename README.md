@@ -19,7 +19,7 @@
 </p>
 
 <h1 align='center'> 
-    Hi there, I'm Zeldianto. 
+    Hello there, I'm Zeldianto. 
     <img src = "https://dazelpro.com/assets/images/wave.gif" width = "30px">
 </h1>
 <p align='center'>
