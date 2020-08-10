@@ -1,3 +1,4 @@
+## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
 <p align='center'>
     <a href="https://dev.to/stephenajulu">
         <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true">
@@ -23,6 +24,3 @@
 ![Dazelpro's github stats](https://github-readme-stats.vercel.app/api?username=dazelpro&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dazelpro&layout=compact)](https://github.com/dazelpro/github-readme-stats) 
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dazelpro&title=Viewers)
-
-
-
