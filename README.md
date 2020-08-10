@@ -1,4 +1,4 @@
-## [![stephen ajulu's header](https://github.com/dazelpro/dazelpro/src/header.png)](https://stephenajulu.com)
+## [![Dazelpro Header](https://dazelpro.com/assets/images/logo-dazelpro.webp)](https://stephenajulu.com)
 <p align='center'>
     <a href="https://dev.to/stephenajulu">
         <img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true">
