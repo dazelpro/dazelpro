@@ -31,24 +31,24 @@
 
 
 <p>
-  <img width="200" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="200" align='left' src="https://dazelpro.com/assets/images/nodejs.webp?raw=true">
 </p>
 
 ### 📘 Node.js Fundamentals
 
-Node.js is a platform for running Javascript code at runtime. Node.js allows applications to run outside the browser. That's all because the rendering is done on the server side. [Read more](https://dazelpro.com/article/tutorial-dasar-node-js)
+Node.js is a platform for running Javascript code at runtime. Node.js allows applications to run outside the browser. That's all because the rendering is done on the server side. [Read more >>](https://dazelpro.com/article/tutorial-dasar-node-js)
 
 
 ---
 
 
 <p>
-    <a href="https://waylonwalker.com/latest"><img width="200" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true"></a>
+    <a href="https://waylonwalker.com/latest"><img width="200" align='right' src="https://dazelpro.com/assets/images/angular.webp?raw=true"></a>
 </p>
 
 ### 📘 Angular Framework Fundamentals
 
-Angular is a client-side framework (Frontend Framework) based on web and is open source. Angular uses the Typescript programming language created and developed by the Angular team at Google. [Read more](https://dazelpro.com/article/belajar-framework-angular-cli)
+Angular is a client-side framework (Frontend Framework) based on web and is open source. Angular uses the Typescript programming language created and developed by the Angular team at Google. [Read more >>](https://dazelpro.com/article/belajar-framework-angular-cli)
 
 <!-- [Latest Post 👉](https://dazelpro.com/blog) -->
 
