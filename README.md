@@ -17,6 +17,7 @@
         <img height="30" src="https://dazelpro.com/assets/images/icon/git-ig.svg">
     </a>
 </p>
+
 <h1 align='center'> 
     Hi there, I'm Zeldianto. 
     <img src = "https://dazelpro.com/assets/images/wave.gif" width = "30px">
