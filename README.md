@@ -13,7 +13,7 @@
         <img height="30" src="https://dazelpro.com/assets/images/icon/git-in.svg">
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/dazelpro">
+    <a href="https://www.instagram.com/mynamezel/">
         <img height="30" src="https://dazelpro.com/assets/images/icon/git-ig.svg">
     </a>
 </p>
