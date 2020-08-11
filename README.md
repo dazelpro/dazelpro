@@ -36,7 +36,7 @@
 
 ### 📘 Node.js Fundamentals
 
-Node.js is a platform for running Javascript code at runtime. Node.js allows applications to run outside the browser. That's all because the rendering is done on the server side. [Read more >>](https://dazelpro.com/article/tutorial-dasar-node-js)
+Node.js is a platform for running Javascript code at runtime. Node.js allows applications to run outside the browser. That's all because the rendering is done on the server side. If you are a beginner, this article is the most appropriate. [Read more >>](https://dazelpro.com/article/tutorial-dasar-node-js)
 
 
 ---
@@ -48,7 +48,7 @@ Node.js is a platform for running Javascript code at runtime. Node.js allows app
 
 ### 📘 Angular Framework Fundamentals
 
-Angular is a client-side framework (Frontend Framework) based on web and is open source. Angular uses the Typescript programming language created and developed by the Angular team at Google. [Read more >>](https://dazelpro.com/article/belajar-framework-angular-cli)
+Angular is a client-side framework (Frontend Framework) based on web and is open source. Angular uses the Typescript programming language created and developed by the Angular team at Google. If you are a beginner, this article is the most appropriate. [Read more >>](https://dazelpro.com/article/belajar-framework-angular-cli)
 
 <!-- [Latest Post 👉](https://dazelpro.com/blog) -->
 
