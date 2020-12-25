@@ -1,26 +1,26 @@
-## [![Dazelpro Header](https://dazelpro.com/assets/images/githeader.png)](https://dazelpro.com)
+## [![Dazelpro Header](https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/githeader.png)](https://dazelpro.com)
 
 <p align='center'>
     <a href="https://www.youtube.com/channel/UCYwbx1db_MYMheTMQKZxV0A">
-        <img height="30" src="https://dazelpro.com/assets/images/icon/git-yt.svg">
+        <img height="30" src="https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/icon/git-yt.svg">
     </a>
     &nbsp;&nbsp;
     <a href="https://twitter.com/dazelpro">
-        <img height="30" src="https://dazelpro.com/assets/images/icon/git-tw.svg">
+        <img height="30" src="https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/icon/git-tw.svg">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/zeldianto/">
-        <img height="30" src="https://dazelpro.com/assets/images/icon/git-in.svg">
+        <img height="30" src="https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/icon/git-in.svg">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.instagram.com/mynamezel/">
-        <img height="30" src="https://dazelpro.com/assets/images/icon/git-ig.svg">
+        <img height="30" src="https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/icon/git-ig.svg">
     </a>
 </p>
 
 <h1 align='center'> 
     Hello there, I'm Zeldianto. 
-    <img src = "https://dazelpro.com/assets/images/wave.gif" width = "30px">
+    <img src = "https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/wave.gif" width = "30px">
 </h1>
 <p align='center'>
     I am a Web Development. For the PHP programming language I am proficient at using Codeigniter. As for the Javascript section on the Frontend, I usually use Angular Framework and NodeJS Express as Backend. I can also use several databases such as Oracle, SQL-Server, MySQL, PostgreSQL and MongoDB.
