@@ -31,7 +31,7 @@
 
 
 <p>
-  <a href="https://dazelpro.com/article/tutorial-dasar-node-js"><img width="200" align='left' src="https://dazelpro.com/assets/images/nodejs.webp?raw=true"></a>
+  <a href="https://dazelpro.com/article/tutorial-dasar-node-js"><img width="200" align='left' src="https://cdn.dazelpro.com/uploads/thumb/node.png?raw=true"></a>
 </p>
 
 ### 📘 Node.js Fundamentals
@@ -43,7 +43,7 @@ Node.js is a platform for running Javascript code at runtime. Node.js allows app
 
 
 <p>
-    <a href="https://dazelpro.com/article/belajar-framework-angular-cli"><img width="200" align='right' src="https://dazelpro.com/assets/images/angular.webp?raw=true"></a>
+    <a href="https://dazelpro.com/article/belajar-framework-angular-cli"><img width="200" align='right' src="https://cdn.dazelpro.com/uploads/thumb/angular.png?raw=true"></a>
 </p>
 
 ### 📘 Angular Framework Fundamentals
