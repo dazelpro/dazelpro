@@ -20,7 +20,7 @@
 
 <h1 align='center'> 
     Hello there, I'm Zeldianto. 
-    <img src = "https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/wave.gif" width = "30px">
+    <img src = "https://cdn.jsdelivr.net/gh/dazelpro/cdn@2.0.2/images/wave.gif" width = "30">
 </h1>
 <p align='center'>
     I am a Web Development. For the PHP programming language I am proficient at using Codeigniter. As for the Javascript section on the Frontend, I usually use Angular Framework and NodeJS Express as Backend. I can also use several databases such as Oracle, SQL-Server, MySQL, PostgreSQL and MongoDB.
